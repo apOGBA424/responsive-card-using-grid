@@ -34,7 +34,11 @@ A simple responsive card design made with HTML and CSS using the CSS Grid proper
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/apOGBA424/responsive-card-using-grid.git`
+1. Clone the repository: 
+
+```bash 
+git clone https://github.com/apOGBA424/responsive-card-using-grid.git
+``````
 
 2. Navigate to the project directory: `cd responsive-card-using-grid`
 3. Open `index.html` in your preferred web browser
